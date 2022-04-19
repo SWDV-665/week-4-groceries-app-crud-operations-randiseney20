@@ -1,0 +1,8 @@
+{
+  "name": "Week3Groceries",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "96737157"
+}
